@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+
+<Known-Offenders-Race-and-Ethnicity>
+	<Crimes-against-person>
+		<Murder-and-nonnegligent-manslaughter> 
+			<Known-offenders-race>
+				<White> 8 </White>
+				<Black-or-African-American> 3 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 0 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 0 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 1 </Multiple>
+				<Unknown-race> 5 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 3 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 6 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 0 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 7 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Murder-and-nonnegligent-manslaughter>
+		<Rape>
+			<Known-offenders-race>
+				<White> 9 </White>
+				<Black-or-African-American> 5 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 0 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 1 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 1 </Multiple>
+				<Unknown-race> 3 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 5 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 6 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 0 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 8 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Rape>
+		<Aggravated-assault>
+			<Known-offenders-race>
+				<White> 746 </White>
+				<Black-or-African-American> 311 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 12 </American-Indian-or-Alaska-Native>
+				<Asian> 15 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 3 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 48 </Multiple>
+				<Unknown-race> 119 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 162 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 530 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 19 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 472 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Aggravated-assault>
+		<Simple-Assault>
+			<Known-offenders-race>
+				<White> 1,136 </White>
+				<Black-or-African-American> 488 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 37 </American-Indian-or-Alaska-Native>
+				<Asian> 27 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 6 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 92 </Multiple>
+				<Unknown-race> 155 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 193 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 742 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 26 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 791 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Simple-Assault>
+		<Intimidation>
+			<Known-offenders-race>
+				<White> 2,277 </White>
+				<Black-or-African-American> 335 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 14 </American-Indian-or-Alaska-Native>
+				<Asian> 17 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 13 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 45 </Multiple>
+				<Unknown-race> 301 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 142 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 856 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 7 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 1,051 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Intimidation>
+	</Crimes-against-person>
+	<Crime-against-property>
+		<Robbery>
+			<Known-offenders-race>
+				<White> 38 </White>
+				<Black-or-African-American> 47 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 2 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 2 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 5 </Multiple>
+				<Unknown-race> 25 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 23 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 37 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 4 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 41 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Robbery>
+		<Burglary>
+			<Known-offenders-race>
+				<White> 41 </White>
+				<Black-or-African-American> 9 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 1 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 0 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 4 </Multiple>
+				<Unknown-race> 14 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 0 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 27 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 2 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 32 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Burglary>
+		<Larceny-theft>
+			<Known-offenders-race>
+				<White> 99 </White>
+				<Black-or-African-American> 32 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 0 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 0 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 2 </Multiple>
+				<Unknown-race> 11 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 7 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 60 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 1 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 67 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Larceny-theft>
+		<Motor-vehicle-theft>
+			<Known-offenders-race>
+				<White> 11 </White>
+				<Black-or-African-American> 5 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 0 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 0 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 0 </Multiple>
+				<Unknown-race> 3 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 0 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 8 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 0 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 11 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Motor-vehicle-theft>
+		<Arson>
+			<Known-offenders-race>
+				<White> 23 </White>
+				<Black-or-African-American> 3 </Black-or-African-American>
+				<American-Indian-or-Alaska-Native> 0 </American-Indian-or-Alaska-Native>
+				<Asian> 0 </Asian>
+				<Native-Hawaiian-or-Other-Pacific-Islander> 0 </Native-Hawaiian-or-Other-Pacific-Islander>
+				<Multiple> 1 </Multiple>
+				<Unknown-race> 4 </Unknown-race>
+			</Known-offenders-race>
+			<Known-offenders-ethnicity>
+				<Hispanic-or-Latino> 6 </Hispanic-or-Latino>
+				<Not-Hispanic-or-Latino> 7 </Not-Hispanic-or-Latino>
+				<Group-of-Multiple-Ethnicity> 0 </Group-of-Multiple-Ethnicity>
+				<Unknown-Ethnicity> 17 </Unknown-Ethnicity>
+			</Known-offenders-ethnicity>
+		</Arson>
+	</Crime-against-property>
+
+</Known-Offenders-Race-and-Ethnicity>
