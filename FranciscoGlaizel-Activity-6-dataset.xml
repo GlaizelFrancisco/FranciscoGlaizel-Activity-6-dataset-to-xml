@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 
+<!DOCTYPE Known-Offenders-Race-and-Ethnicity [
+	<!ELEMENT Known-Offenders-Race-and-Ethnicity (Crimes-against-person, Crime-against-property)>
+	<!ELEMENT Crimes-against-person (Murder-and-nonnegligent-manslaughter, Rape, Aggravated-assault, Simple-Assault, Intimidation)>
+	<!ELEMENT Murder-and-nonnegligent-manslaughter (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Rape (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Aggravated-assault (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Simple-Assault (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Intimidation (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Crimes-against-property (Robbery, Burglary, Larceny-theft, Larceny-theft, Motor-vehicle-theft, Arson)>
+	<!ELEMENT Robbery (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Burglary (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Larceny-theft (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Motor-vehicle-theft (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Arson (Known-offenders-race, Known-offenders-ethnicity )>
+	<!ELEMENT Known-offenders-race (White, Black-or-African-American, Asian, Native-Hawaiian-or-Other-Pacific-Islander, Multiple, Unknown-race)>
+	<!ELEMENT Known-offenders-ethnicity (Hispanic-or-Latino, Not-Hispanic-or-Latino, Group-of-Multiple-Ethnicity, Unknown-Ethnicity)>
+
+
+
+	<!ELEMENT Crimes-against-person (#PCDATA)>
+	<!ELEMENT Crime-against-property (#PCDATA)>
+	<!ELEMENT Murder-and-nonnegligent-manslaughter (#PCDATA)>
+	<!ELEMENT Rape (#PCDATA)>
+	<!ELEMENT Aggravated-assault (#PCDATA)>
+	<!ELEMENT Simple-Assault (#PCDATA)>
+	<!ELEMENT Intimidation (#PCDATA)>
+	<!ELEMENT Robbery (#PCDATA)>
+	<!ELEMENT Burglary (#PCDATA)>
+	<!ELEMENT Larceny-theft (#PCDATA)>
+	<!ELEMENT Motor-vehicle-theft (#PCDATA)>
+	<!ELEMENT Arson (#PCDATA)>
+	<!ELEMENT Known-offenders-race (#PCDATA)>
+	<!ELEMENT Known-offenders-ethnicity (#PCDATA)>
+	<!ELEMENT White (#PCDATA)>
+	<!ELEMENT Black-or-African-American (#PCDATA)>
+	<!ELEMENT Asian (#PCDATA)>
+	<!ELEMENT Native-Hawaiian-or-Other-Pacific-Islander (#PCDATA)>
+	<!ELEMENT Multiple (#PCDATA)>
+	<!ELEMENT Unknown-race (#PCDATA)>
+	<!ELEMENT Hispanic-or-Latino (#PCDATA)>
+	<!ELEMENT Not-Hispanic-or-Latino (#PCDATA)>
+	<!ELEMENT Group-of-Multiple-Ethnicity (#PCDATA)>
+	<!ELEMENT Unknown-Ethnicity (#PCDATA)>
+
+]>
 
 <Known-Offenders-Race-and-Ethnicity>
 	<Crimes-against-person>
